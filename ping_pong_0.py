@@ -64,7 +64,7 @@ class ball(game_objects):
         self.rect.x += self.speed
         self.rect.y += self.speed_y
 
-raketka_0_object = raketka_0('raketka.jpg',1300,500,50,200,4)
+raketka_0_object = raketka_0('raketka.jpg',1300,500,50,200,3.7)
 raketka_1_object = raketka_1('raketka.jpg',50,500,50,200,5)
 
 speed_ball_x = choice([-5,5])
