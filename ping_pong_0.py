@@ -102,3 +102,4 @@ while game :
         raketka_1_object.reset()
     display.update()
     clock_.tick(60)
+    print('(˘･_･˘)')
